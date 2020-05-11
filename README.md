@@ -15,11 +15,11 @@ Após isso só acessar no navegador a url **localhost:8080 **
 
 ![Image description](https://user-images.githubusercontent.com/46344613/81520350-66b82b80-931a-11ea-8726-365ad3071c5f.png)
 
-**Editando um Board:**
-![Image description](https://user-images.githubusercontent.com/46344613/81520345-63bd3b00-931a-11ea-8fcc-8632d0527a3b.png)
+**Editando titulo do Board:**
+![Image description](https://user-images.githubusercontent.com/46344613/81520348-6586fe80-931a-11ea-8589-b2f7ce7f7b00.png)
 
 **Visualizando dados de um Board:**
-![Captura de Tela 2020-05-10 às 23 56 52](https://user-images.githubusercontent.com/46344613/81520348-6586fe80-931a-11ea-8589-b2f7ce7f7b00.png)
+![Image description](https://user-images.githubusercontent.com/46344613/81520345-63bd3b00-931a-11ea-8fcc-8632d0527a3b.png)
 
 <!-- CONTRIBUTING -->
 
